@@ -22,8 +22,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/98489037/155481093-aebb4070-1e02-4d90-9111-b5088143fcf6.gif)
 
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
 ### Notes
 The challenging part about this assignment is to figure out where you make a mistake. Sometimes there will be no error before you run the project. However, when you run the app, the compiler will throw some exceptions. This requires me to find it out by myself. Sometimes it is I forget to enter 's', or sometimes, it causes by I called to the wrong label.
